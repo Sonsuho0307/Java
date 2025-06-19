@@ -27,3 +27,15 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# 빌드 결과물
+/bin/
+/build/
+/out/
+
+# IDE 관련 파일
+*.iml
+.idea/
+*.class
+
+# OS 파일
+Thumbs.db
