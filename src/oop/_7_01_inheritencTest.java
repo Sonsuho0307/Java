@@ -9,7 +9,7 @@ class MyPoint {
 //}
 
 class Circle {       // 포함
-    MyPoint p = new MyPoint();
+    MyPoint p = new MyPoint(); // 참조 변수의 초기화
     int r;
 }
 public class _7_01_inheritencTest {
